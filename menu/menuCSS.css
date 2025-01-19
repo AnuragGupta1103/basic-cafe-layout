@@ -1,0 +1,36 @@
+.menu {
+    background-color: rgb(248, 238, 236);
+}
+
+.line{
+    width: 100%;
+    height: 5px;
+    background-color: lightgreen;
+}
+
+.img-menu {
+    height: 300px;
+    width: 250px;
+}
+
+.card{
+    background-color: rgb(230, 203, 216);
+}
+
+.card-title {
+    font-size: 35px;
+}
+
+.card-text {
+    font-size: 24px;
+}
+
+#menu-btn  {
+    border-bottom: lightgreen;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.card:hover {
+    box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.212);
+}
